@@ -13,7 +13,9 @@
 |9.| rm [filename] | Delete the file |
 |10.| rmdir [directory name]| Delete the directory |
 |11.| cat [filename]| To view the content of the file|
-|12.| less [filename1] [filename2] ... | To view multiple file contents. :n to move to next file, :p to previous, :q to quite |
+|12.| less [filename1] [filename2] ... | To view multiple file contents. :n to move to next file, :p to previous, :q to quit |
 |13.| head [filename] | Displays the 10 lines of the file |
 |14.| head -n [number of lines] [filename] | Displays the specific no of lines of the file|
-|15.| pwd | To get the path of directory you are in | 
+|15.| pwd | To get the path of directory you are in |
+|16.| tail -n +7 [filename] | Displays all but first six lines of the file |
+|17.| 
