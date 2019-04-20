@@ -2,7 +2,7 @@
 
 |# | Command | Action |  
 |--|---------|--------|
-|1.| ls | List the contents of the directory|  
+|1.| ```ls``` | List the contents of the directory|  
 |2.| ls -R -F | List the files everything in the directory (nested)  |  
 |3.| mkdir [directory] | To create a new directory in the current directory|
 |4.| cd [path to the directory] | Move to the directory |
